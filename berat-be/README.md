@@ -31,7 +31,7 @@ a CRUD program run by Python FastAPI back-end and ReactJs as front-end. The conn
 
    change to front-end directory then run the dependencies
 
-   `npm install axios moment --save`
+   `npm install axios react-bootstrap moment --save`
 
 ##### Run the program
 
